@@ -69,7 +69,7 @@ let s:target_hl2_second_defaults = {
     \ }
 
 let s:shade_hl_defaults = {
-    \   'gui'     : ['NONE', '#777777' , 'NONE']
+    \   'gui'     : ['NONE', '#BBBBBB' , 'NONE']
     \ , 'cterm256': ['NONE', '242'     , 'NONE']
     \ , 'cterm'   : ['NONE', 'grey'    , 'NONE']
     \ }
